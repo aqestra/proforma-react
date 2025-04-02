@@ -10,6 +10,9 @@
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1"
   },
+"engines": {
+  "node": "20.x"
+},
 "scripts": {
   "start": "react-scripts start",
   "build": "node node_modules/react-scripts/bin/react-scripts.js build",
